@@ -1,5 +1,3 @@
-# Name: Tay How Yang Gilbert 
-# Student ID: 10512374
 #!/bin/bash
 
 # while loop to ensure that the user can do another search after finishing a search
